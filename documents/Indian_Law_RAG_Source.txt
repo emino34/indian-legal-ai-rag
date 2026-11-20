@@ -1,0 +1,140 @@
+INDIAN LAW RAG SOURCE — STARTER KNOWLEDGE BASE
+Version: 1.0 | Prepared: 17 November 2026
+
+IMPORTANT NOTICE
+This is a SMALL, EDUCATIONAL, SECONDARY SUMMARY for testing a retrieval-augmented generation (RAG) chatbot. It is NOT the complete text of Indian law, an official legal publication, or legal advice. It does not establish whether any provision is currently in force in a particular jurisdiction. Verify every answer against the official Act, commencement notifications, amendments, rules, and relevant state laws before relying on it. The links below are official starting points, not verified deep links to individual sections.
+
+OFFICIAL SOURCE PORTALS
+India Code (central and state legislation): https://www.indiacode.nic.in/
+Legislative Department: https://legislative.gov.in/
+Ministry of Home Affairs: https://www.mha.gov.in/
+Ministry of Road Transport and Highways: https://morth.nic.in/
+Supreme Court of India: https://www.sci.gov.in/
+
+============================================================
+RECORD 001
+AREA: Constitutional law
+ACT: Constitution of India
+PROVISION: Article 14
+TOPIC: Equality before law
+SUMMARY: Article 14 provides for equality before the law and equal protection of the laws within the territory of India. Its application depends on judicial interpretation and the facts.
+VERIFY AT: https://legislative.gov.in/ ; https://www.indiacode.nic.in/
+============================================================
+RECORD 002
+AREA: Constitutional law
+ACT: Constitution of India
+PROVISION: Article 19(1)(a)
+TOPIC: Freedom of speech and expression
+SUMMARY: Article 19(1)(a) protects freedom of speech and expression for citizens, subject to constitutionally permitted restrictions, including those under Article 19(2).
+VERIFY AT: https://legislative.gov.in/
+============================================================
+RECORD 003
+AREA: Constitutional law
+ACT: Constitution of India
+PROVISION: Article 21
+TOPIC: Protection of life and personal liberty
+SUMMARY: Article 21 states that no person shall be deprived of life or personal liberty except according to procedure established by law. Judicial decisions have developed its interpretation.
+VERIFY AT: https://legislative.gov.in/
+============================================================
+RECORD 004
+AREA: Constitutional law
+ACT: Constitution of India
+PROVISION: Article 22
+TOPIC: Safeguards against arrest and detention
+SUMMARY: Article 22 provides certain safeguards relating to arrest and detention, subject to exceptions and special provisions. For a real case, consult the full text and applicable criminal procedure law.
+VERIFY AT: https://legislative.gov.in/
+============================================================
+RECORD 005
+AREA: Constitutional law
+ACT: Constitution of India
+PROVISION: Article 32
+TOPIC: Constitutional remedies
+SUMMARY: Article 32 provides a right to move the Supreme Court for enforcement of fundamental rights, with specified writ powers.
+VERIFY AT: https://legislative.gov.in/
+============================================================
+RECORD 006
+AREA: Criminal substantive law
+ACT: Bharatiya Nyaya Sanhita, 2023 (BNS)
+TOPIC: Offences and punishments
+SUMMARY: The BNS is a central criminal statute defining numerous offences and punishments. Do not assume a particular section or punishment without checking the official current text. The date of the alleged act and transitional rules may matter.
+VERIFY AT: https://www.indiacode.nic.in/ ; https://www.mha.gov.in/
+============================================================
+RECORD 007
+AREA: Criminal procedure
+ACT: Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)
+TOPIC: Criminal procedure, reporting offences, arrest, investigation and bail
+SUMMARY: The BNSS sets out criminal procedure. Whether an offence is cognizable or bailable, and which procedure applies, depends on the specific provisions and circumstances. Check the official law before advising on an FIR, arrest or bail.
+VERIFY AT: https://www.indiacode.nic.in/ ; https://www.mha.gov.in/
+============================================================
+RECORD 008
+AREA: Evidence law
+ACT: Bharatiya Sakshya Adhiniyam, 2023 (BSA)
+TOPIC: Evidence and electronic records
+SUMMARY: The BSA concerns admissibility and evaluation of evidence, including electronic and digital records. Specific conditions for admissibility must be checked in the statutory text and relevant case law.
+VERIFY AT: https://www.indiacode.nic.in/ ; https://www.mha.gov.in/
+============================================================
+RECORD 009
+AREA: Road traffic law
+ACT: Motor Vehicles Act, 1988
+PROVISION: Section 185
+TOPIC: Driving under influence of alcohol or drugs
+SUMMARY: Section 185 addresses driving or attempting to drive under the influence of alcohol or drugs, with statutory thresholds and conditions. Penalties and applicable amendments must be checked in the latest official text. A medical emergency does not automatically create a blanket exemption; any claimed defence requires case-specific legal analysis.
+VERIFY AT: https://www.indiacode.nic.in/ ; https://morth.nic.in/
+============================================================
+RECORD 010
+AREA: Road traffic law
+ACT: Motor Vehicles Act, 1988
+TOPIC: Driving licence and road traffic offences
+SUMMARY: The Act regulates driving licences, motor vehicles and numerous road traffic matters. Offence and penalty depend on the specific provision, amendments and applicable rules.
+VERIFY AT: https://www.indiacode.nic.in/ ; https://morth.nic.in/
+============================================================
+RECORD 011
+AREA: Contract law
+ACT: Indian Contract Act, 1872
+TOPIC: Agreements, contracts and remedies
+SUMMARY: The Indian Contract Act covers core principles of contractual obligations, including consent, consideration, performance and breach. The result in a dispute depends on the contract, applicable sections and case law.
+VERIFY AT: https://www.indiacode.nic.in/
+============================================================
+RECORD 012
+AREA: Consumer law
+ACT: Consumer Protection Act, 2019
+TOPIC: Consumer rights and disputes
+SUMMARY: The Act provides a framework for consumer protection and redress. Jurisdiction, limitation periods, procedures and remedies must be checked against current law and rules.
+VERIFY AT: https://www.indiacode.nic.in/
+============================================================
+RECORD 013
+AREA: Cyber and technology law
+ACT: Information Technology Act, 2000
+TOPIC: Electronic records and cyber offences
+SUMMARY: The Act addresses legal recognition of electronic records and certain cyber-related matters. Do not cite a specific offence or penalty without checking the current statutory text and amendments.
+VERIFY AT: https://www.indiacode.nic.in/
+============================================================
+RECORD 014
+AREA: Family law
+ACT: Hindu Marriage Act, 1955
+TOPIC: Marriage and matrimonial relief
+SUMMARY: The Act governs specified matrimonial matters for persons to whom it applies. Eligibility, grounds and remedies are fact-sensitive; other personal laws may apply to other individuals.
+VERIFY AT: https://www.indiacode.nic.in/
+============================================================
+RECORD 015
+AREA: Civil procedure
+ACT: Code of Civil Procedure, 1908
+TOPIC: Civil suits and procedure
+SUMMARY: The Code regulates many aspects of civil litigation. Court jurisdiction, pleadings, interim relief and execution depend on detailed provisions and applicable amendments.
+VERIFY AT: https://www.indiacode.nic.in/
+============================================================
+RECORD 016
+AREA: Property law
+ACT: Transfer of Property Act, 1882
+TOPIC: Transfers of immovable property
+SUMMARY: The Act addresses various transfers of property. Registration, stamp duties, state amendments and other laws may also be relevant.
+VERIFY AT: https://www.indiacode.nic.in/
+============================================================
+
+RAG ANSWERING RULES FOR THIS DATASET
+1. Treat every record as an overview, not primary legal authority.
+2. Cite ACT and PROVISION only when expressly present in the retrieved record.
+3. Do not invent sections, fines, imprisonment terms, procedures or exceptions.
+4. If a question requires a specific penalty, current rule, state law, case law or recent amendment not provided here, state that the source is insufficient.
+5. For real-life situations, identify missing facts (date, state, circumstances) and recommend checking official law or qualified counsel.
+6. Prefer replacing these summaries with complete, verified official Acts and section-level metadata for a production system.
